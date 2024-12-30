@@ -1,12 +1,1 @@
-[
-    {
-        "id": "a2e04bf5-bd43-47aa-8ef1-34f405126610",
-        "name": "MOG 1 - 2",
-        "remoteBaseUrl": "https://github.com/SmartManager7/smart-manager-remote-storage-DEV",
-        "remotePath": "packs/meta-options/456cf960-e5bb-4361-b6e7-8c9733bfc781.zip",
-        "version": "89e97760-762d-4a13-8231-7d3a4fe456cc",
-        "remoteDependencies": {
-            "dataBuckets": []
-        }
-    }
-]
+[]
