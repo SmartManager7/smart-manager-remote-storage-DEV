@@ -13,5 +13,14 @@
             "tags": null,
             "templates": null
         }
+    },
+    {
+        "id": "9865aad1-a775-45a0-aecf-3c890a4c2775",
+        "name": "Test",
+        "remoteBaseUrl": "https://github.com/SmartManager7/smart-manager-remote-storage-DEV",
+        "remotePath": "packs/extensions/83728422-72bd-4c07-a0c5-be784b77604e.zip",
+        "version": "8dcfb35e-1a6f-49fb-a3e5-92fe126a4bd8",
+        "previewImage": "",
+        "remoteDependencies": null
     }
 ]
