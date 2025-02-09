@@ -19,23 +19,5 @@
         "itemsVersions": {
             "7dece340-edf2-404a-98b1-915af8281808": "ae82686a-90e9-465a-bf33-44d2179fdc7a"
         }
-    },
-    {
-        "id": "7d4880b4-c371-4801-a4f4-ddc7043e4bb3",
-        "name": "LG33",
-        "remoteBaseUrl": "https://github.com/SmartManager7/smart-manager-remote-storage-DEV",
-        "remotePath": "packs/labels/b3b07281-f3ca-48f9-8c47-34c992af9092.zip",
-        "version": "b4ff5a48-6cae-40ed-9fdf-be8aa9f19865",
-        "remoteDependencies": null,
-        "itemsVersions": {}
-    },
-    {
-        "id": "b9485f41-6901-4681-925b-213e0023e21e",
-        "name": "LG22",
-        "remoteBaseUrl": "https://github.com/SmartManager7/smart-manager-remote-storage-DEV",
-        "remotePath": "packs/labels/fd1d490e-3b66-4635-b787-9356107d23f2.zip",
-        "version": "43214983-e6b3-49ab-adbf-a107c22be9cb",
-        "remoteDependencies": null,
-        "itemsVersions": {}
     }
 ]
