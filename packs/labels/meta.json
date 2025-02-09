@@ -21,6 +21,15 @@
         }
     },
     {
+        "id": "7d4880b4-c371-4801-a4f4-ddc7043e4bb3",
+        "name": "LG33",
+        "remoteBaseUrl": "https://github.com/SmartManager7/smart-manager-remote-storage-DEV",
+        "remotePath": "packs/labels/b3b07281-f3ca-48f9-8c47-34c992af9092.zip",
+        "version": "b4ff5a48-6cae-40ed-9fdf-be8aa9f19865",
+        "remoteDependencies": null,
+        "itemsVersions": {}
+    },
+    {
         "id": "b9485f41-6901-4681-925b-213e0023e21e",
         "name": "LG22",
         "remoteBaseUrl": "https://github.com/SmartManager7/smart-manager-remote-storage-DEV",
