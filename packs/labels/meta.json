@@ -28,14 +28,5 @@
         "itemsVersions": {
             "7dece340-edf2-404a-98b1-915af8281808": "ae82686a-90e9-465a-bf33-44d2179fdc7a"
         }
-    },
-    {
-        "id": "b9485f41-6901-4681-925b-213e0023e21e",
-        "name": "LG22",
-        "remoteBaseUrl": "https://github.com/SmartManager7/smart-manager-remote-storage-DEV",
-        "remotePath": "packs/labels/fd1d490e-3b66-4635-b787-9356107d23f2.zip",
-        "version": "72732837-5cd6-4e52-b7fa-e75363eb0c15",
-        "remoteDependencies": null,
-        "itemsVersions": {}
     }
 ]
