@@ -19,8 +19,44 @@
         "name": "Test",
         "remoteBaseUrl": "https://github.com/SmartManager7/smart-manager-remote-storage-DEV",
         "remotePath": "packs/extensions/83728422-72bd-4c07-a0c5-be784b77604e.zip",
-        "version": "94a93d31-0ef2-438a-ac22-1bd8437192a6",
+        "version": "cd2e5c7c-6d80-43d6-a67b-2ca88abdcf6e",
         "previewImage": "data:image/jpeg;base64,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",
-        "remoteDependencies": null
+        "remoteDependencies": {
+            "dataBuckets": [
+                {
+                    "id": "0960c119-9788-4087-b5d8-8954ce16a3aa",
+                    "remoteBaseUrl": "https://github.com/SmartManager7/smart-manager-remote-storage-DEV2",
+                    "remotePath": "packs/data-buckets/b41e4393-a975-4936-a742-0c52f20b7b5e.zip"
+                }
+            ],
+            "labels": [
+                {
+                    "id": "f87f6f43-45be-4b01-9918-48a048e014a8",
+                    "remoteBaseUrl": "https://github.com/SmartManager7/smart-manager-remote-storage-DEV",
+                    "remotePath": "packs/labels/b2d838af-63b9-49ef-96df-4c5cc4b96c4a.zip"
+                }
+            ],
+            "metaOptions": [
+                {
+                    "id": "228181e8-d1e1-47bf-8113-c66e08c75721",
+                    "remoteBaseUrl": "https://github.com/SmartManager7/smart-manager-remote-storage-DEV",
+                    "remotePath": "packs/meta-options/456cf960-e5bb-4361-b6e7-8c9733bfc781.zip"
+                }
+            ],
+            "tags": [
+                {
+                    "id": "80529fc5-1a3b-4313-b1c0-44fc17d1dd46",
+                    "remoteBaseUrl": "https://github.com/SmartManager7/smart-manager-remote-storage-DEV",
+                    "remotePath": "packs/tags/cdae3bae-d854-413f-91e0-9a06c4da3b84.zip"
+                }
+            ],
+            "templates": [
+                {
+                    "id": "2e7061d2-3bf6-4be4-b16f-5fb6fa564965",
+                    "remoteBaseUrl": "https://github.com/SmartManager7/smart-manager-remote-storage-DEV2",
+                    "remotePath": "packs/templates/0ca626b1-1548-40d1-a89d-e719ef6540d1.zip"
+                }
+            ]
+        }
     }
 ]
