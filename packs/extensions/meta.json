@@ -19,7 +19,7 @@
         "name": "Test",
         "remoteBaseUrl": "https://github.com/SmartManager7/smart-manager-remote-storage-DEV",
         "remotePath": "packs/extensions/83728422-72bd-4c07-a0c5-be784b77604e.zip",
-        "version": "ddb8c65c-8a47-4464-b129-f7efd1e2a16c",
+        "version": "5c469399-12ea-4456-ba74-c4eebfcbf59d",
         "previewImage": "data:image/jpeg;base64,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",
         "remoteDependencies": {
             "dataBuckets": [
@@ -57,6 +57,10 @@
                     "remotePath": "packs/templates/0ca626b1-1548-40d1-a89d-e719ef6540d1.zip"
                 }
             ]
-        }
+        },
+        "tags": [
+            "games",
+            "videos"
+        ]
     }
 ]
